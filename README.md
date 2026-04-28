@@ -1,2 +1,2 @@
-# study_prg_stepa
+# study_pkg_stepa
 lab ros
